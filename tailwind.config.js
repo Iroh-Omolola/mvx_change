@@ -31,8 +31,7 @@ module.exports = {
       },
       backgroundImage: {
         video: "url('src/assets/Group 3106.svg')",
-      },
-    
+      }
     },
   },
   plugins: [],

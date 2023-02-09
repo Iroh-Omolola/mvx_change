@@ -47,7 +47,7 @@ const App = () => {
           <div className="relative h-full w-[50%] z-40">
             <div className="relative h-full w-full flex justify-end">
               <object
-                data="../src/assets/Subtract.svg"
+                data="../../src/assets/Subtract.svg"
                 className="lg:h-[1000px] lg:w-[800px] lg:-mt-[110px] h-[700px] w-[441px]"
                 alt="bg-image"
                 srcset=""

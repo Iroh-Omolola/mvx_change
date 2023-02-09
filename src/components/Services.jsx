@@ -26,6 +26,7 @@ export const Services=({ onClick, openService })=> {
                       data="../src/assets/freight_forwarding.svg"
                       className="m-auto pt-2"
                       alt=""
+                      type="image/svg+xml"
                       srcset=""
                     />
                   </div>
@@ -43,6 +44,7 @@ export const Services=({ onClick, openService })=> {
                     <object
                       data="../src/assets/freight_finance.svg"
                       className="m-auto pt-2"
+                      type="image/svg+xml"
                       alt=""
                       srcset=""
                     />
@@ -63,6 +65,7 @@ export const Services=({ onClick, openService })=> {
                       data="../src/assets/haulage.svg"
                       className="m-auto pt-3"
                       alt=""
+                      type="image/svg+xml"
                       srcset=""
                     />
                   </div>
@@ -81,6 +84,7 @@ export const Services=({ onClick, openService })=> {
                       data="../src/assets/customs.svg"
                       className="m-auto pt-2.5"
                       alt=""
+                      type="image/svg+xml"
                       srcset=""
                     />
                   </div>

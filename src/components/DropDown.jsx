@@ -3,9 +3,6 @@ import { Menu, Transition } from "@headlessui/react";
 
 
 export const DropDown=()=> {
-  const classNames = (...classes) => {
-    return classes.filter(Boolean).join(" ");
-  };
 
   return (
     <>

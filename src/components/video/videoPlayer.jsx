@@ -18,7 +18,7 @@ export const VideoPlayer = () => {
   return (
     <div className="w-full ">
       <video
-        poster="../src/assets/Group 3106.svg"
+        poster="../../src/assets/Group 3106.svg"
         id="video"
         width="100%"
       >

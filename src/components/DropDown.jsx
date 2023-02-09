@@ -35,7 +35,7 @@ export const DropDown=()=> {
                   <div className="w-full p-4 flex gap-4 ease-in duration-500 items-center rounded-md cursor-pointer hover:bg-blueLightNav">
                     <div className="w-[39px] h-[39px] rounded-full bg-blueLightNav">
                       <object
-                        data="src/assets/freight_forwarding.svg"
+                        data="./src/assets/freight_forwarding.svg"
                         className="m-auto pt-2"
                         alt=""
                         srcset=""
@@ -57,7 +57,7 @@ export const DropDown=()=> {
                   <div className="w-full p-4 flex gap-4 ease-in duration-500 items-center rounded-md cursor-pointer hover:bg-orangeLightNav">
                     <div className="w-[39px] h-[39px] rounded-full bg-orangeLightNav">
                       <object
-                        data="src/assets/freight_finance.svg"
+                        data="./src/assets/freight_finance.svg"
                         className="m-auto pt-2"
                         alt=""
                         srcset=""
@@ -79,7 +79,7 @@ export const DropDown=()=> {
                   <div className="w-full p-4 flex gap-4 ease-in duration-500 items-center rounded-md cursor-pointer hover:bg-blueLightNav">
                     <div className="w-[39px] h-[39px] rounded-full bg-blueLightNav">
                       <object
-                        data="src/assets/haulage.svg"
+                        data="./src/assets/haulage.svg"
                         className="m-auto pt-3"
                         alt=""
                         srcset=""
@@ -101,7 +101,7 @@ export const DropDown=()=> {
                   <div className="w-full p-4 flex gap-4 ease-in duration-500 items-center rounded-md cursor-pointer hover:bg-orangeLightNav">
                     <div className="w-[39px] h-[39px] rounded-full bg-orangeLightNav">
                       <object
-                        data="src/assets/customs.svg"
+                        data="./src/assets/customs.svg"
                         className="m-auto pt-2.5"
                         alt=""
                         srcset=""
